@@ -4,7 +4,9 @@ The first player is normally the player to the left of the dealer and gameplay u
 
 Every player views his/her cards and tries to match the card in the Discard Pile.
 
-You have to match either by the number, color, or the symbol/Action.
+You have to match either by the number, color, or the symbol/Action. // Make a enum for Card
+
+Each player starts off with 7 cards // Use an array of Card
 
     If:
 		  The player has no matches or they choose not to play any of their cards even though they might have a match
@@ -46,4 +48,4 @@ The moment a player has just one card they must yell “UNO!”.
 
 
 
-Once a player has no cards remaining, the game round is over, points are scored, and the game begins over again. 
+Once a player has no cards remaining, the game round is over, points are scored, and the game begins over again. // Make a loop for the entire game
