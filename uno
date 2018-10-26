@@ -1,4 +1,4 @@
-Uno
+Uno card game
 //rules
 The first player is normally the player to the left of the dealer and gameplay usually follows a clockwise direction.
 
